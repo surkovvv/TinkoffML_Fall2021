@@ -1,6 +1,6 @@
 # Surkoff search engine
 
-### Поисковик работает на локальном сервере, реализованном с помощью **Flask**. Поиск осуществляется среди постов с сайта Habr : https://www.kaggle.com/leadness/habr-posts?select=habs.csv(около 2.4 Gb).
+### Поисковик работает на локальном сервере, реализованном с помощью *Flask*. Поиск осуществляется среди постов с сайта Habr : https://www.kaggle.com/leadness/habr-posts?select=habs.csv(около 2.4 Gb).
 
 ## Как выглядит объединенный датасет :
 ![alt text](https://github.com/surkovvv/TinkoffML_Fall2021/blob/main/search%20engine/dataframe.png)
